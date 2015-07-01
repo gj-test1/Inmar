@@ -1,5 +1,7 @@
 import mysql.connector
 
+# Really not sure about this part
+
 try:
     cnx = mysql.connector.connect(host="localhost", user='root', passwrrd="", database='employeeDB');
     

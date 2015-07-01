@@ -4,8 +4,6 @@ url = "http://www.inmar.com";
 
 response = urllib2.urlopen(url);
 temp = response.read();
-#print temp;
-#print "========================";
 
 
 data = temp.split("</a>");
