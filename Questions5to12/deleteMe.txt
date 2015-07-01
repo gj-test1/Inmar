@@ -1,0 +1,125 @@
+javascript:;" id="ctl00_A1" onclick="javascript:this.href='#startNavigation';" class="ms-SkiptoNavigation" accesskey="Y
+javascript:;" id="ctl00_A2" onclick="javascript:this.href='#mainContent';" class="ms-SkiptoMainContent" accesskey="X
+/pages/About_Us/Web_Tools.aspx
+/
+#
+/Pages/Promotion-Network/
+/Pages/Supply-Chain-Network/
+/Pages/Healthcare-Network/
+#
+/Blogs/
+/Pages/Resources/Articles.aspx
+/Pages/Resources/Case_Studies.aspx
+/Pages/Resources/Research.aspx
+/Pages/Resources/White_Papers.aspx
+/Pages/Resources/Industry-Events.aspx
+/Pages/Resources/Webinars.aspx
+/Pages/Resources/Returns/Overview.aspx
+/Pages/Resources/Recalls/Overview.aspx
+/Pages/Resources/Coupons/Overview.aspx
+/Pages/Resources/Rebates/Overview.aspx
+#
+/Pages/About_Us/Inmar_News.aspx
+/Pages/About_Us/Leadership.aspx
+/Pages/About_Us/Board-of-Directors.aspx
+/Pages/About_Us/Advisory-Council.aspx
+/Pages/About_Us/Inmar-in-the-Community.aspx
+/Pages/About_Us/Awards.aspx
+/Pages/About_Us/Careers.aspx
+/Pages/About_Us/Contact.aspx" onclick="GoToLink(this);return false;
+/
+#
+/Pages/Promotion-Network/
+/Pages/Supply-Chain-Network/
+/Pages/Healthcare-Network/
+#
+/Blogs/
+/Pages/Resources/Articles.aspx
+/Pages/Resources/Case_Studies.aspx
+/Pages/Resources/Research.aspx
+/Pages/Resources/White_Papers.aspx
+/Pages/Resources/Industry-Events.aspx
+/Pages/Resources/Webinars.aspx
+/Pages/Resources/Returns/Overview.aspx
+/Pages/Resources/Recalls/Overview.aspx
+/Pages/Resources/Coupons/Overview.aspx
+/Pages/Resources/Rebates/Overview.aspx
+/Pages/About_Us/Inmar-Foundation.aspx
+#
+/Pages/About_Us/Inmar_News.aspx
+/Pages/About_Us/Leadership.aspx
+/Pages/About_Us/Board-of-Directors.aspx
+/Pages/About_Us/Inmar-Foundation.aspx
+/Pages/About_Us/Inmar-in-the-Community.aspx
+/Pages/About_Us/Awards.aspx
+/careers/pages/default.aspx
+/Pages/About_Us/Contact.aspx" onclick="GoToLink(this);return false;
+ http://www.youtube.com/watch?v=KiGMKZMnf2Y
+#tab-1
+#tab-2
+#tab-3
+/Pages/Promotion-Network/Coupon-Suite.aspx
+/Pages/Promotion-Network/Coupon-Suite.aspx
+/Pages/Promotion-Network/Coupon-Suite.aspx#apps
+/Pages/Promotion-Network/Coupon-Suite.aspx
+/Pages/Promotion-Network/Coupon-Suite.aspx#apps
+#coupon-video" rel="lightBoxVid
+/Pages/Promotion-Network/Digital-Promotion-Suite.aspx
+/Pages/Promotion-Network/Digital-Promotion-Suite.aspx
+/Pages/Promotion-Network/Digital-Promotion-Suite.aspx#apps
+/Pages/Promotion-Network/Rebate-Suite.aspx
+/Pages/Promotion-Network/Rebate-Suite.aspx
+/Pages/Promotion-Network/Rebate-Suite.aspx#apps
+/Pages/Promotion-Network/Analytics-and-Consulting-Suite.aspx
+/Pages/Promotion-Network/Analytics-and-Consulting-Suite.aspx
+/Pages/Promotion-Network/Analytics-and-Consulting-Suite.aspx#apps
+/Pages/Supply-Chain-Network/Returns-Suite.aspx
+/Pages/Supply-Chain-Network/Returns-Suite.aspx
+/Pages/Supply-Chain-Network/Returns-Suite.aspx#apps
+/Pages/Supply-Chain-Network/Recalls-Suite.aspx
+/Pages/Supply-Chain-Network/Recalls-Suite.aspx
+/Pages/Supply-Chain-Network/Recalls-Suite.aspx#apps
+#recalls-video" rel="lightBoxVid
+/Pages/Supply-Chain-Network/Remarketing-Suite.aspx
+/Pages/Supply-Chain-Network/Remarketing-Suite.aspx
+/Pages/Supply-Chain-Network/Remarketing-Suite.aspx#apps
+/Pages/Supply-Chain-Network/Analytics-and-Consulting-Suite.aspx
+/Pages/Supply-Chain-Network/Analytics-and-Consulting-Suite.aspx
+/Pages/Supply-Chain-Network/Analytics-and-Consulting-Suite.aspx#apps
+/Pages/Healthcare-Network/Returns-Suite.aspx
+/Pages/Healthcare-Network/Returns-Suite.aspx
+/Pages/Healthcare-Network/Returns-Suite.aspx#apps
+/Pages/Healthcare-Network/Recalls-Suite.aspx
+/Pages/Healthcare-Network/Recalls-Suite.aspx
+/Pages/Healthcare-Network/Recalls-Suite.aspx#apps
+/Pages/Healthcare-Network/Pharmacy-Financial-Management-Suite.aspx
+/Pages/Healthcare-Network/Pharmacy-Financial-Management-Suite.aspx
+/Pages/Healthcare-Network/Pharmacy-Financial-Management-Suite.aspx#apps
+/Pages/Healthcare-Network/Analytics-and-Consulting-Suite.aspx
+/Pages/Healthcare-Network/Analytics-and-Consulting-Suite.aspx
+/Pages/Healthcare-Network/Analytics-and-Consulting-Suite.aspx#apps
+#healthcare-analytics" rel="lightBoxVid
+http://go.inmar.com/2014-Coupon-Trends-Insights-and-Analysis-Webinar.html" target="_blank
+/Documents/Recall%20Management%20Best%20Practices.pdf" target="_blank
+/blogs
+/blogs/leading-innovation/archive/2014/09/26/business-as-a-moral-endeavor.aspx
+/Pages/Resources/Returns/Overview.aspx
+/Pages/Resources/Articles.aspx
+/Pages/Resources/Recalls/Overview.aspx
+/Pages/Resources/Coupons/Overview.aspx
+/Pages/Resources/Research.aspx
+/Pages/Resources/Rebates/Overview.aspx
+/Pages/Resources/White_Papers.aspx
+/Pages/Resources/Industry-Events.aspx
+/Pages/Resources/Webinars.aspx
+/_windows/default.aspx?ReturnUrl=' + returnUrl + '
+/Pages/Resources/Returns/Overview.aspx
+/Pages/Resources/Articles.aspx
+/Pages/Resources/Recalls/Overview.aspx
+/Pages/Resources/Coupons/Overview.aspx
+/Pages/Resources/Research.aspx
+/Pages/Resources/Rebates/Overview.aspx
+/Pages/Resources/White_Papers.aspx
+/Pages/About_Us/Inmar-Foundation.aspx
+/Pages/Resources/Webinars.aspx
+/Pages/Resources/Industry-Events.aspx
